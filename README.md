@@ -6,7 +6,7 @@ If you want to know me better :
 
 [My linkedin][linkedin]
 
-[My portfolio][website]
+ [my portfolio][website]
 
 [My best work so far][picwik]
 
@@ -16,6 +16,6 @@ Currently working on 💪🏻 : <b>intersectionobserver in react</b>
 Next framework I want to work on 🧐 : <b>flutter</b>
 
 
-[website] : http://armand-meunier.herokuapp.com/
+  [website]: https://armand-meunier.herokuapp.com/
 [picwik]: http://pic-wik-toys-clone.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/armand-meunier/
