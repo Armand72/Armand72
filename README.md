@@ -14,9 +14,6 @@ Currently working on 💪🏻 : <b>intersectionobserver in react</b>
 Next framework I want to work on 🧐 : <b>flutter</b>
 
 
-
-
-
 [website] : http://armand-meunier.herokuapp.com/
 [picwik]: http://pic-wik-toys-clone.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/armand-meunier/
