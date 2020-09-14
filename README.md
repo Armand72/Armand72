@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Armand72/Armand72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former English teacher, now junior developer in search for an "alternance" in a company that would kindly accept me in.😁
 
-Here are some ideas to get you started:
+If you want to know me better :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My linkedin][linkedin]
+[My portfolio][website]
+[My best work so far][picwik]
+
+Currently working on 💪🏻 : <b>intersectionobserver in react</b>
+
+
+Next framework I want to work on 🧐 : <b>flutter</b>
+
+
+
+
+
+[website] : http://armand-meunier.herokuapp.com/
+[picwik]: http://pic-wik-toys-clone.herokuapp.com/
+[linkedin]: https://www.linkedin.com/in/armand-meunier/
