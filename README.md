@@ -7,8 +7,13 @@ If you want to know me better :
 [My linkedin][linkedin]
 
  [my portfolio][website]
+ 
+Look at one of my project: 
 
-[My best work so far][picwik]
+[Website][picwik]
+
+[code][picwikCode]
+
 
 Currently working on 💪🏻 : <b>intersectionobserver in react</b>
 
@@ -19,3 +24,4 @@ Next framework I want to work on 🧐 : <b>flutter</b>
   [website]: https://armand-meunier.herokuapp.com/
 [picwik]: http://pic-wik-toys-clone.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/armand-meunier/
+[picwikCode]:https://github.com/Armand72/pic-wik-toys-clone
