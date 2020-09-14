@@ -4,15 +4,15 @@ Former English teacher, now junior developer in search for an "alternance" in a 
 
 If you want to know me better :
 
-[My linkedin][linkedin]
+💼 [My linkedin][linkedin]
 
- [my portfolio][website]
+ 📃 [My portfolio][website]
  
-Look at one of my project: 
+One of my projects: 
 
-[Website][picwik]
+🌐 [Website][picwik] 
 
-[code][picwikCode]
+💻 [code][picwikCode]
 
 
 Currently working on 💪🏻 : <b>intersectionobserver in react</b>
