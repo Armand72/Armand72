@@ -5,7 +5,9 @@ Former English teacher, now junior developer in search for an "alternance" in a 
 If you want to know me better :
 
 [My linkedin][linkedin]
+
 [My portfolio][website]
+
 [My best work so far][picwik]
 
 Currently working on 💪🏻 : <b>intersectionobserver in react</b>
